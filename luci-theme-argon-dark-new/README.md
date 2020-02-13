@@ -1,3 +1,10 @@
-本源码功能扩展性比较高，不适合给完全不懂的小白用。
 
-所以如果你是，因自己操作不当导致不好用，觉得难用的，请不要使用。
+# 视图
+
+![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-7.png)
+![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-8.png)
+![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-9.png)
+![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-10.png)
+![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/14.png)
+![argon-p主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/15.png)
+
