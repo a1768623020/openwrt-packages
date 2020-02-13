@@ -38,10 +38,10 @@
 ![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-8.png)
 ![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-9.png)
 ![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-10.png)
-![暗黄全屏](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-11.png)
-![抹茶全屏](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-12.png)
-![黑红全屏](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-13.png)
-![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-14.png)
-![argon-p主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-15.png)
+![暗黄全屏](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/11.png)
+![抹茶全屏](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/12.png)
+![黑红全屏](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/13.png)
+![argon主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/14.png)
+![argon-p主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/15.png)
 # kenzok8-openwrt-packages
 # kenzok8-openwrt-packages
