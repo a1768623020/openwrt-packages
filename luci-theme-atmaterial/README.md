@@ -1,3 +1,10 @@
-本源码功能扩展性比较高，不适合给完全不懂的小白用。
+## 说明
 
-所以如果你是，因自己操作不当导致不好用，觉得难用的，请不要使用。
+* 更新了主题中cpu百分比显示，与内存数 连接数颜色修复一致，精简了部分代码
+
+![暗黄主题-](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-1.png)
+![暗黄主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-2.png)
+![暗黑红主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-3.png)
+![暗黑红主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-4.png)
+![抹茶绿主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-5.png)
+![抹茶绿主题](https://github.com/kenzok8/openwrt-packages/blob/master/screenshot/sshot-6.png)
